@@ -15,7 +15,7 @@ When
 Then
 And
 But
-*
+* 
 4.Step Definition - for each step in Feature link a method is created in step definition
 5.Cucumber Options - dryRun,features,glue,monochrome,format,strict,tags
 
