@@ -4,20 +4,12 @@ Cucumber is a testing tool that supports Behavior Driven Development (BDD) frame
 Cucumber mainly consists of 3 components - Feature File, Step Definition class and Runner class.
 
 **Cucumber Basics**
-1.Feature File
-2.JUnit Test Runner Class
-3.Gherkin Keywords: used to define Feature file
-Feature
-Background
-Scenario
-Given
-When
-Then
-And
-But
-* 
-4.Step Definition - for each step in Feature link a method is created in step definition
-5.Cucumber Options - dryRun,features,glue,monochrome,format,strict,tags
+1. Feature File
+2. JUnit Test Runner Class
+3. Gherkin Keywords - Feature, BAckground, Scenario, Given, When, Then, And, But, *
+4. Step Definition
+5. Cucumber Options - dryRun, features, glue, monochrome, format, strict, tags
+
 
 **Data Driven Testing**
 1. without using Example Keyword
